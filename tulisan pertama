@@ -1,0 +1,5 @@
+//tulisan pertama saya disini
+
+<script>
+document.write("Hello Word");
+</script>
